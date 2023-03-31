@@ -27,4 +27,11 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+
+    <!-- Welcome texts when navigating and entering a view [CHAR LIMIT=??] -->
+    <string name="welcome_phrases">Welcome to Phrases list :)</string>
+    <string name="welcome_family">Welcome to Family Members list :)</string>
+    <string name="welcome_colors">Welcome to Colors list :)</string>
+    <string name="welcome_numbers">Welcome to Numbers list :)</string>
+
 </resources>
